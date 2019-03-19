@@ -13,7 +13,7 @@ For reference on git-flow commands, check out this [cheat sheet](http://danielku
 3. clone your fork to your local development machine
 4. set this repo as the `upstream` repo `git remote add upstream <insert the upstream url>`
 5. disallow direct pushing to upstream `git remote set-url --push upstream no_push`
-6. dreate a local `master` branch `git checkout -b master` and test it via `git pull upstream master`
+6. create a local `master` branch `git checkout -b master` and test it via `git pull upstream master`
 7. run `git flow init -d`
 
 #### Optional Git Setup
