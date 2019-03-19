@@ -9,6 +9,12 @@
 
 This template is created to be used with [create-project](https://github.com/mafintosh/create-project), upon creating a new project, this README should be overwritten according to the project's needs.
 
+### How to use this template
+
+1. Clone already created repository (should ideally be the *fork* of a main repository) locally
+2. Still outside the project directory, execute `create-project <project-name> SelfKeyFoundation/solidity-template`
+3. Customize this README file and start working on your project
+
 ## Development
 
 Smart contracts are being implemented using Solidity `0.5.4`.
