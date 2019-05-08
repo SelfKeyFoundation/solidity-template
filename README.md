@@ -11,11 +11,11 @@ This template is created to be used with [create-project](https://github.com/maf
 
 ### How to use this template
 
-1. Clone already created repository (should ideally be the *fork* of a main repository) locally
-2. Still outside the project directory, execute `create-project <project-name> SelfKeyFoundation/solidity-template`
-3. Make sure to follow the git-flow guidelines provided in CONTRIBUTING.md
+1. Install [create-project](https://github.com/mafintosh/create-project): `npm install -g create-project`
+2. Create project on the main repo, fork and clone according to the [contribution guidelines](CONTRIBUTING.md)
+3. In the directory outside the locally cloned project, execute `create-project <project-name> SelfKeyFoundation/solidity-template`
 4. `git add` all the files included and make an initial commit
-5. Start working on your project...
+5. Overwrite this README on the new repository and start working on your project...
 
 ## Development
 
