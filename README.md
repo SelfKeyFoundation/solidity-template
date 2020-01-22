@@ -1,4 +1,4 @@
-# {{name}}
+# solidity-template
 
 {{description}}
 
@@ -7,9 +7,19 @@
 
 ## Overview
 
-This template is created to be used with [create-project](https://github.com/mafintosh/create-project), upon creating a new project, this README should be overwritten according to the project's needs.
+This template was originally created to be used with [create-project](https://github.com/mafintosh/create-project). However, github allows to use the template directly at repository creation time. This README should be overwritten according to the project's needs.
 
 ### How to use this template
+
+#### Using github
+
+1. Select "create new repository" on SelfKeyFoundation github account.
+2. Under "Repository template" select `solidity-template`
+3. Continue project creation workflow as usual (see CONTRIBUTING.md)
+
+By selecting the template from github, using create-project is not necessary, however, the following guidelines are kept for reference (possibly deprecating soon)...
+
+#### Using create-project
 
 1. Install [create-project](https://github.com/mafintosh/create-project): `npm install -g create-project`
 2. Create project on the main repo, fork and clone according to the [contribution guidelines](CONTRIBUTING.md)
